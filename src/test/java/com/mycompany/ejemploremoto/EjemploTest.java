@@ -48,6 +48,6 @@ public class EjemploTest {
          Pelicula p = new Pelicula();
          List<Pelicula> l = u.listaPeliculas();
          l.add(p);
-         System.out.println("Test One Two");
+         System.out.println("Test One Two sssss");
      }
 }
